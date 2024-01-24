@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project aims to create a basic Blockchain Visualizer for a custom cryptocurrency, showcasing blocks and transactions in a simplified graphical representation. The visualizer is built using HTML, CSS, and JavaScript with a focus on simplicity and clarity.
+This project aims to create a basic Blockchain Visualizer for a custom cryptocurrency, showcasing blocks and transactions in a simplified graphical representation. The visualizer is built using Python.
 
 ## Features
 
